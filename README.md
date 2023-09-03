@@ -2,7 +2,11 @@
 
 This repository contains essential classes for implementing Goal-Oriented Action Planning (GOAP) in Unity. GOAP is a technique used to create intelligent behaviors for NPCs in games. Below are the key classes included in this framework:
 
-WIP : Hospital simulation - as an example to showcase implementation of GOAP
+WIP : Hospital simulation - as an example to showcase implementation of GOAP.
+
+https://github.com/chetan-code/GOAP-Unity/assets/57151493/e8ea2093-5f44-4b0f-83cc-0bc3abf00f91
+
+
 ## GAction 
 [view](https://github.com/chetan-code/GOAP-Unity/blob/main/Assets/Scripts/Core/GAction.cs)
 - Abstract class for defining actions for game NPCs.
